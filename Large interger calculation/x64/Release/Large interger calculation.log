@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  Large interger calculation.cpp
+Large interger calculation.cpp(86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(125): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(126): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(174): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(185): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(186): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(184): warning C4101: 'minus': unreferenced local variable
+Large interger calculation.cpp(259): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(288): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(332): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(341): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(366): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Large interger calculation.cpp(393): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Large interger calculation.vcxproj -> C:\OneDrive\projects\Console\Large interger calculation\x64\Release\Large interger calculation.exe

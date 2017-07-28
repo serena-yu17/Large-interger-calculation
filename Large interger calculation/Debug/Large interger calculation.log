@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Large interger calculation.cpp
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(42): error C2059: syntax error: ')'
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(43): error C2143: syntax error: missing ';' before '{'
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(47): error C2065: 'temp1': undeclared identifier
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(47): error C2228: left of '.size' must have class/struct/union
+  c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(47): note: type is 'unknown-type'
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(47): error C3078: array size must be specified in new expressions
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(48): error C2065: 'temp1': undeclared identifier
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(49): error C2065: 'temp2': undeclared identifier
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(49): error C2228: left of '.size' must have class/struct/union
+  c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(49): note: type is 'unknown-type'
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(49): error C3078: array size must be specified in new expressions
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(50): error C2065: 'temp2': undeclared identifier
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(382): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\onedrive\projects\console\large interger calculation\large interger calculation\large interger calculation.cpp(408): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
